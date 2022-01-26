@@ -1,0 +1,5 @@
+database: 
+  path: 
+  brandsTable: brands
+  ordersTable: orders
+  payoffsTable: payoffs

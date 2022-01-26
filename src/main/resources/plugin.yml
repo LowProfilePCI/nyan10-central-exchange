@@ -1,0 +1,14 @@
+name: Nyan10CentralExchange
+version: 1.0
+main: tk.nyan10.nce.Market
+depend: [ItemRegister]
+softdepend: [ItemRegister]
+commands:
+  nce:
+    description: nceコマンドの使い方を表示するにゃあ！
+    usage: /<command>
+    default: true
+  nib: 
+    description: アイテムバンクを開くにゃあ！
+    usage: /<command>
+    default: true
